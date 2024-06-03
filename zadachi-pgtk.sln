@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "variant-3", "zadachi-pgtk\variant-3.csproj", "{FB81870C-FA16-4E31-8830-ED6A8B3E3DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variant-2", "variant-2\variant-2.csproj", "{9C06A033-CC07-48E2-A10D-2781465A3B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variant-1", "variant-1\variant-1.csproj", "{D01147E5-6354-4B26-AFE6-9CE4731CE892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB81870C-FA16-4E31-8830-ED6A8B3E3DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB81870C-FA16-4E31-8830-ED6A8B3E3DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB81870C-FA16-4E31-8830-ED6A8B3E3DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB81870C-FA16-4E31-8830-ED6A8B3E3DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C06A033-CC07-48E2-A10D-2781465A3B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C06A033-CC07-48E2-A10D-2781465A3B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C06A033-CC07-48E2-A10D-2781465A3B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C06A033-CC07-48E2-A10D-2781465A3B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01147E5-6354-4B26-AFE6-9CE4731CE892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01147E5-6354-4B26-AFE6-9CE4731CE892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01147E5-6354-4B26-AFE6-9CE4731CE892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01147E5-6354-4B26-AFE6-9CE4731CE892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27BB6904-CB95-4CA5-A769-47C176D4E272}
+	EndGlobalSection
+EndGlobal
